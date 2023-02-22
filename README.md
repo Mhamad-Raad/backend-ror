@@ -26,7 +26,7 @@
 
 # 📖 React-ruby application <a name="about-project"></a>
 
-**[Budget Application]** This project, created using Ruby on Rails, and React, to simply show case front end and backend working together.
+**[Budget Application]** This project, created using Ruby on Rails, to simply show case front end and backend working together.
 ## 🛠 Built With <a name="built-with"></a>
 
 Built with Ruby on Rails
@@ -69,7 +69,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need: `Ruby`, `Rails` and a Database such as PostgreSQL
 
 ### Front-end
-[front-end](https://github.com/Mhamad-Raad/react-seperate-ror/tree/dev/frontend)
+[front-end](https://github.com/Mhamad-Raad/frontend-ror/tree/dev)
 
 
 ### Backend
